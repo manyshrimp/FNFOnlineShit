@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"frostbite",
+			"icon-red",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"insomnia",
+			"icon-silver",
+			[
+				108,
+				117,
+				138
+			]
+		],
+		[
+			"monochrome",
+			"icon-gold",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

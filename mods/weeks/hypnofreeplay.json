@@ -1,0 +1,86 @@
+{
+	"storyName": "Hypno freeplay songs",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"isotope",
+			"glitchy-red",
+			[
+				185,
+				49,
+				43
+			]
+		],
+		[
+			"amusia",
+			"wigglyicon",
+			[
+				66,
+				9,
+				24
+			]
+		],
+		[
+			"death-toll",
+			"beelze",
+			[
+				126,
+				93,
+				145
+			]
+		],
+		[
+			"dissension",
+			"steven",
+			[
+				179,
+				0,
+				0
+			]
+		],
+		[
+			"bygone-purpose",
+			"steven",
+			[
+				179,
+				0,
+				0
+			]
+		],
+		[
+			"purin",
+			"purin",
+			[
+				197,
+				203,
+				206
+			]
+		],
+		[
+			"pasta-night",
+			"pasta",
+			[
+				197,
+				203,
+				206
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Hypno"
+}
