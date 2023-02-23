@@ -1,0 +1,5 @@
+mods/data/trapped/trapped-hard.json
+mods/songs/trapped/Voices.ogg
+mods/songs/trapped/Inst.ogg
+mods/songs/trapped/voices.ogg
+mods/songs/trapped/inst.ogg

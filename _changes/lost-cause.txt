@@ -1,0 +1,5 @@
+mods/data/lost-cause/lost-cause.json
+mods/songs/lost-cause/Voices.ogg
+mods/songs/lost-cause/Inst.ogg
+mods/songs/lost-cause/voices.ogg
+mods/songs/lost-cause/inst.ogg

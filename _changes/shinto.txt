@@ -1,0 +1,5 @@
+mods/data/shinto/shinto.json
+mods/songs/shinto/Voices.ogg
+mods/songs/shinto/Inst.ogg
+mods/songs/shinto/voices.ogg
+mods/songs/shinto/inst.ogg

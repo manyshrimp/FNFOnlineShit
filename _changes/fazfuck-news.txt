@@ -1,0 +1,5 @@
+mods/data/fazfuck-news/fazfuck-news-hard.json
+mods/songs/fazfuck-news/Voices.ogg
+mods/songs/fazfuck-news/Inst.ogg
+mods/songs/fazfuck-news/voices.ogg
+mods/songs/fazfuck-news/inst.ogg

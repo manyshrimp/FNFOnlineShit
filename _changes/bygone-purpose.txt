@@ -1,0 +1,6 @@
+mods/data/bygone-purpose/bygone-purpose.json
+mods/data/bygone-purpose/lyrics.json
+mods/songs/bygone-purpose/Voices.ogg
+mods/songs/bygone-purpose/Inst.ogg
+mods/songs/bygone-purpose/voices.ogg
+mods/songs/bygone-purpose/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/midnight/midnight-hard.json
+mods/songs/midnight/Voices.ogg
+mods/songs/midnight/Inst.ogg
+mods/songs/midnight/voices.ogg
+mods/songs/midnight/inst.ogg

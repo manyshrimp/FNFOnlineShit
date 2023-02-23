@@ -1,0 +1,5 @@
+mods/data/blubber/blubber-hard.json
+mods/songs/blubber/Voices.ogg
+mods/songs/blubber/Inst.ogg
+mods/songs/blubber/voices.ogg
+mods/songs/blubber/inst.ogg

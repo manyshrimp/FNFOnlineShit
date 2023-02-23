@@ -1,0 +1,5 @@
+mods/data/miller/miller-hard.json
+mods/songs/miller/Voices.ogg
+mods/songs/miller/Inst.ogg
+mods/songs/miller/voices.ogg
+mods/songs/miller/inst.ogg

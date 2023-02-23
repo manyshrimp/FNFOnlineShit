@@ -1,0 +1,5 @@
+mods/data/pasta-night/pasta-night.json
+mods/songs/pasta-night/Voices.ogg
+mods/songs/pasta-night/Inst.ogg
+mods/songs/pasta-night/voices.ogg
+mods/songs/pasta-night/inst.ogg

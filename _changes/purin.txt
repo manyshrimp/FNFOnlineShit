@@ -1,0 +1,5 @@
+mods/data/purin/purin.json
+mods/songs/purin/Voices.ogg
+mods/songs/purin/Inst.ogg
+mods/songs/purin/voices.ogg
+mods/songs/purin/inst.ogg

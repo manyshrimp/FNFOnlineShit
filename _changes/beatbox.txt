@@ -1,0 +1,5 @@
+mods/data/beatbox/beatbox-hard.json
+mods/songs/beatbox/Voices.ogg
+mods/songs/beatbox/Inst.ogg
+mods/songs/beatbox/voices.ogg
+mods/songs/beatbox/inst.ogg

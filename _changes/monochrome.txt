@@ -1,0 +1,5 @@
+mods/data/monochrome/monochrome.json
+mods/songs/monochrome/Voices.ogg
+mods/songs/monochrome/Inst.ogg
+mods/songs/monochrome/voices.ogg
+mods/songs/monochrome/inst.ogg

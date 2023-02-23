@@ -1,0 +1,5 @@
+mods/data/golden/golden-hard.json
+mods/songs/golden/Voices.ogg
+mods/songs/golden/Inst.ogg
+mods/songs/golden/voices.ogg
+mods/songs/golden/inst.ogg

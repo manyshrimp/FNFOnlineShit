@@ -1,0 +1,5 @@
+mods/data/lurking/lurking-hard.json
+mods/songs/lurking/Voices.ogg
+mods/songs/lurking/Inst.ogg
+mods/songs/lurking/voices.ogg
+mods/songs/lurking/inst.ogg

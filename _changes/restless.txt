@@ -1,0 +1,5 @@
+mods/data/restless/restless-hard.json
+mods/songs/restless/Voices.ogg
+mods/songs/restless/Inst.ogg
+mods/songs/restless/voices.ogg
+mods/songs/restless/inst.ogg

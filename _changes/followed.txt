@@ -1,0 +1,6 @@
+mods/data/followed/events.json
+mods/data/followed/followed-hard.json
+mods/songs/followed/Voices.ogg
+mods/songs/followed/Inst.ogg
+mods/songs/followed/voices.ogg
+mods/songs/followed/inst.ogg

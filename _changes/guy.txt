@@ -1,0 +1,6 @@
+mods/data/guy/events.json
+mods/data/guy/guy-hard.json
+mods/songs/guy/Voices.ogg
+mods/songs/guy/Inst.ogg
+mods/songs/guy/voices.ogg
+mods/songs/guy/inst.ogg

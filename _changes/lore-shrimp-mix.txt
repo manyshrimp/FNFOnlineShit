@@ -1,0 +1,5 @@
+mods/data/lore-shrimp-mix/lore-shrimp-mix.json
+mods/songs/lore-shrimp-mix/Voices.ogg
+mods/songs/lore-shrimp-mix/Inst.ogg
+mods/songs/lore-shrimp-mix/voices.ogg
+mods/songs/lore-shrimp-mix/inst.ogg

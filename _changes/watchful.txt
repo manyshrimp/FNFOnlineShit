@@ -1,0 +1,5 @@
+mods/data/watchful/watchful-hard.json
+mods/songs/watchful/Voices.ogg
+mods/songs/watchful/Inst.ogg
+mods/songs/watchful/voices.ogg
+mods/songs/watchful/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/man/man-hard.json
+mods/songs/man/Voices.ogg
+mods/songs/man/Inst.ogg
+mods/songs/man/voices.ogg
+mods/songs/man/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/shitno/shitno.json
+mods/songs/shitno/Voices.ogg
+mods/songs/shitno/Inst.ogg
+mods/songs/shitno/voices.ogg
+mods/songs/shitno/inst.ogg

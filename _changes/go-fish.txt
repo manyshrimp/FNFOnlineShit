@@ -1,0 +1,5 @@
+mods/data/go-fish/go-fish-hard.json
+mods/songs/go-fish/Voices.ogg
+mods/songs/go-fish/Inst.ogg
+mods/songs/go-fish/voices.ogg
+mods/songs/go-fish/inst.ogg

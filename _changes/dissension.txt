@@ -1,0 +1,5 @@
+mods/data/dissension/dissension.json
+mods/songs/dissension/Voices.ogg
+mods/songs/dissension/Inst.ogg
+mods/songs/dissension/voices.ogg
+mods/songs/dissension/inst.ogg

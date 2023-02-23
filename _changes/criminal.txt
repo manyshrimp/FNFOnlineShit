@@ -1,0 +1,5 @@
+mods/data/criminal/criminal-hard.json
+mods/songs/criminal/Voices.ogg
+mods/songs/criminal/Inst.ogg
+mods/songs/criminal/voices.ogg
+mods/songs/criminal/inst.ogg

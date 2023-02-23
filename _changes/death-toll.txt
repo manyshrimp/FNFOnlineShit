@@ -1,0 +1,5 @@
+mods/data/death-toll/death-toll.json
+mods/songs/death-toll/Voices.ogg
+mods/songs/death-toll/Inst.ogg
+mods/songs/death-toll/voices.ogg
+mods/songs/death-toll/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/performance/performance-hard.json
+mods/songs/performance/Voices.ogg
+mods/songs/performance/Inst.ogg
+mods/songs/performance/voices.ogg
+mods/songs/performance/inst.ogg

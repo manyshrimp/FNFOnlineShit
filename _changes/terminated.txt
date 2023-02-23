@@ -1,0 +1,5 @@
+mods/data/terminated/terminated-hard.json
+mods/songs/terminated/Voices.ogg
+mods/songs/terminated/Inst.ogg
+mods/songs/terminated/voices.ogg
+mods/songs/terminated/inst.ogg

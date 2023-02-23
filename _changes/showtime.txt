@@ -1,0 +1,5 @@
+mods/data/showtime/showtime-hard.json
+mods/songs/showtime/Voices.ogg
+mods/songs/showtime/Inst.ogg
+mods/songs/showtime/voices.ogg
+mods/songs/showtime/inst.ogg

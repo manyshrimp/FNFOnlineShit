@@ -1,0 +1,5 @@
+mods/data/amusia/amusia.json
+mods/songs/amusia/Voices.ogg
+mods/songs/amusia/Inst.ogg
+mods/songs/amusia/voices.ogg
+mods/songs/amusia/inst.ogg
